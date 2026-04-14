@@ -1,0 +1,1 @@
+C:/Users/ABC/test-shopify-theme/AGENTS.md
