@@ -13,11 +13,15 @@
   "sections": {
     "announcement": {
       "type": "announcementbar",
-      "settings": {}
+      "settings": {
+        "message": "25% OFF US based delivery!"
+      }
     },
     "header": {
       "type": "header",
-      "settings": {}
+      "settings": {
+        "menu": "main-menu"
+      }
     }
   },
   "order": [
